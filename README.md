@@ -21,5 +21,5 @@ Typically, large companies do not have enough time to open each CV, so they use 
 # Now as we have cleared the dataset, the next task is to have a look at the Wordcloud. A Wordcloud represents the most numbers of words larger and vice versa:
 ![wordcloud](https://user-images.githubusercontent.com/73393333/232816517-008c1777-d301-4429-991b-36e0a788802d.png)
 # Now let’s train the model and print the classification report:
-![4](https://user-images.githubusercontent.com/73393333/232816749-ca59d3f6-4ed8-4829-b4ce-98e703aa9b32.png
+![4](https://user-images.githubusercontent.com/73393333/232816749-ca59d3f6-4ed8-4829-b4ce-98e703aa9b32.png)
 ![5](https://user-images.githubusercontent.com/73393333/232816833-80f2f67d-3b20-4d9e-9a00-d65f7a1fd4bb.png)
